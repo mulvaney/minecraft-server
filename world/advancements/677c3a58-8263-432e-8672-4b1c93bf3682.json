@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "savanna": "2017-06-29 21:03:42 -0400",
+      "savanna_rock": "2017-06-30 15:35:19 -0400",
       "river": "2017-06-29 21:05:31 -0400",
       "desert": "2017-06-29 21:38:06 -0400"
     },
